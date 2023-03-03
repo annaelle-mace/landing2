@@ -1,0 +1,31 @@
+.btn-blue {
+	background-color: #6D71DD;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+}
+
+.btn-blue:hover {
+	background-color: #fbd30c;
+	color: #5c3cbb;
+}
+
+.btn-purple {
+	background-color: #5c3cbb;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+	display: block;
+	margin: 0 auto;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.btn-purple:hover {
+	background-color: #fbd30c;
+	color: #5c3cbb;
+}
